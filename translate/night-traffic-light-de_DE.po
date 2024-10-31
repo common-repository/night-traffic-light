@@ -1,0 +1,161 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Night-Traffic-Light\n"
+"POT-Creation-Date: 2014-03-21 12:21+0100\n"
+"PO-Revision-Date: 2014-03-21 12:22+0100\n"
+"Last-Translator: Tobias Bohn <info@tb-webtec.de>\n"
+"Language-Team: TB-WebTec <info@tb-webtec.de>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../inc/widget_manuell.php:13
+msgid "Simple traffic light system for WordPress"
+msgstr "Ampelsystem"
+
+#: ../inc/widget_manuell.php:93
+msgid "Title"
+msgstr "Titel"
+
+#: ../inc/widget_manuell.php:98
+msgid "Red"
+msgstr "Rot"
+
+#: ../inc/widget_manuell.php:99
+msgid "Yellow"
+msgstr "Gelb"
+
+#: ../inc/widget_manuell.php:100
+msgid "Green"
+msgstr "Grün"
+
+#: ../inc/widget_manuell.php:103
+msgid "Size"
+msgstr "Größe"
+
+#: ../inc/widget_manuell.php:111
+msgid "Code for traffic light"
+msgstr "Code für die Ampel"
+
+#: ../site/admin_page.php:13 ../site/admin_page.php:55
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: ../site/admin_page.php:14 ../site/admin_page.php:56
+#: ../site/admin_page.php:61
+msgid "Info"
+msgstr "Info"
+
+#: ../site/admin_page.php:20
+msgid ""
+"To insert your traffic light in postings or pages you can use our simple "
+"shortcode.<br />If our traffic light system shall be embetted into a widget, "
+"you will not need this shortcode function as we built an extra widget "
+"function for you.<br><strong>These can be found at:</strong><br />"
+msgstr ""
+"Um Ihre Ampel einzufügen z. B. in Beiträgen oder Seiten können Sie ohne "
+"Probleme unseren leichten Shortcode nutzen. <br/>Falls Sie unser Ampelsystem "
+"in ein Widget einbetten wollen, benötigen Sie diese Shortcode Funktion "
+"allerdings nicht - da wir eine Extra Widget Funktion für Sie eingebaut haben."
+"<br /><strong>Diese finden Sie unter:</strong><br />"
+
+#: ../site/admin_page.php:22
+msgid "<i>Designs -> Widgets ->  Nights Traffic Light Manuell</i>."
+msgstr "<i>Designs -> Widgets ->  Nights Traffic Light Manuell</i>."
+
+#: ../site/admin_page.php:24
+msgid "Shortcode variables"
+msgstr "Shortcode Variablen"
+
+#: ../site/admin_page.php:26
+msgid "Following code is basis:"
+msgstr "Folgender Code ist Grundlage:"
+
+#: ../site/admin_page.php:29
+msgid "Variables for y"
+msgstr "Variable für y"
+
+#: ../site/admin_page.php:30
+msgid ""
+"The letter y in the code means the colour your traffic light will show.<br /"
+">Substitute y with one of these colours:"
+msgstr ""
+"Der Buchstabe \"y\" im Code steht für die Farbe, die Ihre Ampel anzeigen "
+"soll. <br />Ersetzen Sie \"y\" mit einer dieser Farben:"
+
+#: ../site/admin_page.php:37
+msgid "Variables for x"
+msgstr "Variable für x"
+
+#: ../site/admin_page.php:38
+msgid "The letter x means the size oft the pixels"
+msgstr "Der Buchstabe \"x\" steht in diesem Falle für die Größe in Pixeln."
+
+#: ../site/admin_page.php:40
+msgid "Example"
+msgstr "Beispiel"
+
+#: ../site/admin_page.php:43
+msgid "The traffic light shows red and has a size of 50 pixels."
+msgstr "Die Ampel zeigt rot und ist 50 pixel groß. "
+
+#: ../site/admin_page.php:62
+msgid "Thank you"
+msgstr "Vielen dank"
+
+#: ../site/admin_page.php:63
+msgid ""
+"We thank you very much that you decided to use our plugin nights traffic "
+"light.<br /><br />In case you have questions, suggestions, bugs or messages "
+"for us you can contact us here<br />"
+msgstr ""
+"Wir möchten und herzlich bei Ihnen bedanken, dass Sie sich dazu entschieden "
+"haben unser Plugin: \"Nights Traffic Light\" zu nutzen.<br /> <br />Sollten "
+"Sie Fragen, Vorschläge, Bug Meldungen zu unserem Plugin können Sie uns wie "
+"folgt<br />"
+
+#: ../site/admin_page.php:63
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../site/admin_page.php:63
+msgid "Support Center"
+msgstr "Support Center"
+
+#: ../site/admin_page.php:68
+msgid "Many thanks to ..."
+msgstr "Vielen dank an ..."
+
+#: ../site/admin_page.php:70
+msgid ""
+"<a href=\"http://greyeconsulting.de\" target=\"_blank\">Sonja Greye</a> - "
+"translation - German-English"
+msgstr ""
+"<a href=\"http://greyeconsulting.de\" target=\"_blank\">Sonja Greye</a> - "
+"Übersetzung - Deutsch-Englisch"
+
+#: ../site/admin_page.php:79
+msgid "Support"
+msgstr "Support"
+
+#: ../site/admin_page.php:86
+msgid "Pay for a round of coffee"
+msgstr "Spendiere uns ein Kaffee"
+
+#: ../site/admin_page.php:107
+msgid "developed by"
+msgstr "Entwickelt von"
+
+#: ../site/admin_page.php:108
+msgid "in cooperation with"
+msgstr "in Kooperation mit"
+
+#~ msgid "HELLLOOOO"
+#~ msgstr "HALLO !!!!!"
